@@ -15,5 +15,5 @@ y = temp
 print('The value of x after swapping: {}'.format(x))
 print('The value of y after swapping: {}'.format(y))
 
-def sum(a,b):
- return a + b
+def mult(a,b):
+ return a*b
